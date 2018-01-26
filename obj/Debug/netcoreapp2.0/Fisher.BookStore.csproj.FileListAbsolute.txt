@@ -1,0 +1,10 @@
+/Users/nmop11/Documents/3610/Fisher.BookStore/bin/Debug/netcoreapp2.0/Fisher.BookStore.deps.json
+/Users/nmop11/Documents/3610/Fisher.BookStore/bin/Debug/netcoreapp2.0/Fisher.BookStore.runtimeconfig.json
+/Users/nmop11/Documents/3610/Fisher.BookStore/bin/Debug/netcoreapp2.0/Fisher.BookStore.runtimeconfig.dev.json
+/Users/nmop11/Documents/3610/Fisher.BookStore/bin/Debug/netcoreapp2.0/Fisher.BookStore.dll
+/Users/nmop11/Documents/3610/Fisher.BookStore/bin/Debug/netcoreapp2.0/Fisher.BookStore.pdb
+/Users/nmop11/Documents/3610/Fisher.BookStore/obj/Debug/netcoreapp2.0/Fisher.BookStore.csproj.CoreCompileInputs.cache
+/Users/nmop11/Documents/3610/Fisher.BookStore/obj/Debug/netcoreapp2.0/Fisher.BookStore.AssemblyInfoInputs.cache
+/Users/nmop11/Documents/3610/Fisher.BookStore/obj/Debug/netcoreapp2.0/Fisher.BookStore.AssemblyInfo.cs
+/Users/nmop11/Documents/3610/Fisher.BookStore/obj/Debug/netcoreapp2.0/Fisher.BookStore.dll
+/Users/nmop11/Documents/3610/Fisher.BookStore/obj/Debug/netcoreapp2.0/Fisher.BookStore.pdb
