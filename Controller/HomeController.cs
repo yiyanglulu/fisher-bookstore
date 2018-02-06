@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Fisher.Bookstore.Controllers{
-    public class HomeController: Controller{
+    public class HomeController : Controller{
         public IActionResult Index()
-        {return Content("hello world");}
+        {
+            return View();
+        
+        }
     }
 }
+

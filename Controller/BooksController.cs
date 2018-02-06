@@ -10,11 +10,11 @@ namespace Fisher.Bookstore.Controllers{
     public class BooksController : Controller{
 
         public IActionResult Index(){
-            return Content("index");
+            return View() ;
         }
 
         public IActionResult New(){
-            return Content("history");
+            return Content("This is the books new");
         }
 
        
